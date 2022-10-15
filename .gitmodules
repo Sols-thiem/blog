@@ -1,0 +1,8 @@
+[submodule "sols-thiem.github.io"]
+	path = sols-thiem.github.io
+	url = https://github.com/Sols-thiem/sols-thiem.github.io
+	branch = main
+[submodule "public"]
+	path = public
+	url = https://github.com/Sols-thiem/sols-thiem.github.io
+	branch = main
